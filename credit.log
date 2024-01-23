@@ -1,0 +1,3 @@
+{"level":30,"time":1704262451935,"pid":120,"hostname":"9451868aa741","msg":"Initializing SQLite database at /home/runner/STARLINGTGFRONT/sqlite/credits.db"}
+{"level":30,"time":1704262451971,"pid":120,"hostname":"9451868aa741","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1704262451971,"pid":120,"hostname":"9451868aa741","msg":"CreditManager instance created."}
